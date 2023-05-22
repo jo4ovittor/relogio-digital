@@ -1,0 +1,19 @@
+@media screen and (max-width:815px){
+    .titulo{
+        display: none;
+    }
+    .relogio{
+        align-items: center;
+        flex-direction: column;
+        box-shadow: none;
+    }
+    .relogio div{
+        align-items: center;
+        flex-direction: column;
+        margin-bottom: 33px;
+    }
+    body{
+        background-size: cover;
+        background-position: center;
+    }
+}
