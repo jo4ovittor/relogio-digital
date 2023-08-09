@@ -1,0 +1,9 @@
+@media screen and (min-width:1000px){
+    .relogio{
+        margin: 150px auto;
+    }
+
+    .relogio .relogio-itens .tempo{
+        flex-direction: row;
+    }
+}
